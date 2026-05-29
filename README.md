@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# Learning Platform
-=======
+
 # Learning Platform with Smart Study Planner
 
 ## Project Overview
