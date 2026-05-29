@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Learning Platform
 =======
+=======
+>>>>>>> bdbe806aa1aca21b46e03678f8e94e7e30b4e1ed
 # Learning Platform with Smart Study Planner
 
 ## Project Overview
@@ -17,11 +20,17 @@ The Learning Platform with Smart Study Planner is a web-based application design
 - Progress Tracking
 
 ## Technologies Used
+<<<<<<< HEAD
 - Java
 - JSP & Servlet
 - HTML
 - CSS
 - JavaScript
+=======
+- Python
+- React.js
+- fastApI
+>>>>>>> bdbe806aa1aca21b46e03678f8e94e7e30b4e1ed
 - MySQL
 
 ## Modules
@@ -42,4 +51,7 @@ To improve student productivity and learning management through a centralized on
 
 ## Author
 Hansha Yadav
+<<<<<<< HEAD
 >>>>>>> 6f2fc2c04ba0df939223c706bb5ac12babbf95e5
+=======
+>>>>>>> bdbe806aa1aca21b46e03678f8e94e7e30b4e1ed
