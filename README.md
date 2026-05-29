@@ -14,11 +14,9 @@ The Learning Platform with Smart Study Planner is a web-based application design
 - Progress Tracking
 
 ## Technologies Used
-- Java
-- JSP & Servlet
-- HTML
-- CSS
-- JavaScript
+- Python
+- React.js
+- fastApI
 - MySQL
 
 ## Modules
