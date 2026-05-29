@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# Learning Platform
-=======
-=======
->>>>>>> bdbe806aa1aca21b46e03678f8e94e7e30b4e1ed
+
 # Learning Platform with Smart Study Planner
 
 ## Project Overview
