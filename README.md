@@ -1,4 +1,4 @@
-# Showcase vedio of project here
+# Showcase video of project here
 https://drive.google.com/file/d/1ZKDKSVqEwf66wMw3-y7D0VYQ-CUv3uxH/view?usp=sharing
 # Learning Platform with Smart Study Planner
 
